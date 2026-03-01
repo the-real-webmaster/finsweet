@@ -1087,7 +1087,7 @@ header .container {
 }
 
 .about-us__second {
-    background-image: url('/img/about-us.jpg');
+    background-image: url('../img/about-us.jpg');
     background-size: cover;
     background-position: center;
     height: 444px;
@@ -1203,7 +1203,7 @@ header .container {
 
 .our-team__img-wrapper::before {
     content: '';
-    background-image: url('/img/our-team-icon-1.svg');
+    background-image: url('../img/our-team-icon-1.svg');
     width: 103px;
     height: 116px;
     position: absolute;
@@ -1219,7 +1219,7 @@ header .container {
 
 .our-team__image-wrapper::before {
     content: '';
-    background-image: url('/img/our-team-icon-2.svg');
+    background-image: url('../img/our-team-icon-2.svg');
     width: 74px;
     height: 74px;
     position: absolute;
